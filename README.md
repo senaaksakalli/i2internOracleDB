@@ -1,5 +1,5 @@
 # i2internOracleDB
-# OracleDB Docker Kurulumu – i2i Systems Intern Programı
+# OracleDB Docker Kurulumu 
 
 Bu proje, i2i Systems Yazılım Staj Programı kapsamında verilen **ORACLEDB-EX-02** alıştırmasının çözümünü içermektedir.  
 Oracle Database Express Edition (XE) 21c sürümünü Docker üzerinde çalıştırmak ve SQLPlus CLI üzerinden bağlantı sağlamak amaçlanmıştır.
